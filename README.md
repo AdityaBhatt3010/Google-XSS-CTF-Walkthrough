@@ -1,4 +1,4 @@
-# 🎯 Google XSS CTF Walkthrough
+# 🎯 Google Appspot XSS CTF Walkthrough
 
 **Lab Link:** [https://xss-game.appspot.com/](https://xss-game.appspot.com/) <br/>
 **Platform:** Google XSS Game <br/>
